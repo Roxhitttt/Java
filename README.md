@@ -12,8 +12,11 @@ Java was developed by James Gosling at Sun Microsystem in the year 1995.
 - Sun Microsystem release its public version in 1996 as Java 1.0.
 - First Name of Java is OAK.
 
+Example: First basic program of Java.
+https://github.com/Roxhitttt/Java/blob/5c9b8d217fe2b61aa8e35400577cd862e1d3f3a4/Jdk/firstjava.java
+
 #### Data Types in Java
 - Primitive Data Types - Boolean, Byte, char, short, int, long, float, double.
 - Non-primitive Data Types - Array, Class.
 
-Example: First basic program of Java.
+
