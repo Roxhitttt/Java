@@ -151,8 +151,37 @@ https://www.javatpoint.com/how-to-set-path-in-java
 
 __________________________________________________________________________________
 
+#### JRE
+
+JRE is an acronym for Java Runtime Environment. It is also written as Java RTE. The Java Runtime Environment is a set of software tools which are used for developing Java applications. It is used to provide the runtime environment. It is the implementation of JVM. It physically exists. It contains a set of libraries + other files that JVM uses at runtime.
+
+The implementation of JVM is also actively released by other companies besides Sun Micro Systems.  
+![image](https://user-images.githubusercontent.com/62470301/216404844-c6be38de-bbe2-4e00-a434-a6fe5ee718c0.png)
+
 
 __________________________________________________________________________________
+
+#### JDK
+
+JDK is an acronym for Java Development Kit. The Java Development Kit (JDK) is a software development environment which is used to develop Java applications and applets. It physically exists. It contains JRE + development tools.  
+
+The JDK contains a private Java Virtual Machine (JVM) and a few other resources such as an interpreter/loader (java), a compiler (javac), an archiver (jar), a documentation generator (Javadoc), etc. to complete the development of a Java Application.
+
+![image](https://user-images.githubusercontent.com/62470301/216405502-62a7428a-0e3a-4b85-ab54-073c99e5c7b5.png)
+
+__________________________________________________________________________________
+
+#### JVM (Java Virtual Machine) Architecture 
+
+JVM (Java Virtual Machine) is an abstract machine. It is a specification that provides runtime environment in which java bytecode can be executed.  
+JVMs are available for many hardware and software platforms (i.e. JVM is platform dependent).
+
+The JVM performs following operation: Loads code, Verifies code, Executes code, Provides runtime environment.
+
+## JVM Architecture - This is also very important - https://www.javatpoint.com/jvm-java-virtual-machine
+
+__________________________________________________________________________________
+
 
 #### Data Types in Java
 - Primitive Data Types - Boolean, Byte, char, short, int, long, float, double.
