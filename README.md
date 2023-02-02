@@ -19,4 +19,6 @@ https://github.com/Roxhitttt/Java/blob/5c9b8d217fe2b61aa8e35400577cd862e1d3f3a4/
 - Primitive Data Types - Boolean, Byte, char, short, int, long, float, double.
 - Non-primitive Data Types - Array, Class.
 
+Example of Primitive Data Types in one link:
+https://github.com/Roxhitttt/Java/blob/1290c46e9cf0a3e668f7de09c733396c40871ca0/Jdk/demodatatype.java
 
