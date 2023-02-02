@@ -123,6 +123,14 @@ java Simple
 
 ![image](https://user-images.githubusercontent.com/62470301/216401277-8efeb543-30b0-409a-81c0-334b46843fb3.png)
 
+What happens at runtime?
+
+![image](https://user-images.githubusercontent.com/62470301/216402472-3ce695d7-4721-4cae-9d76-b47965ff700c.png)
+
+Classloader: It is the subsystem of JVM that is used to load class files.  
+Bytecode Verifier: Checks the code fragments for illegal code that can violate access rights to objects.  
+Interpreter: Read bytecode stream then execute the instructions.
+
 - Parameters used in First Java Program
 
 class keyword is used to declare a class in Java.  
@@ -137,6 +145,14 @@ Example: First basic program of Java.
 https://github.com/Roxhitttt/Java/blob/5c9b8d217fe2b61aa8e35400577cd862e1d3f3a4/Jdk/firstjava.java
 __________________________________________________________________________________
 
+#### How to set path in java
+
+https://www.javatpoint.com/how-to-set-path-in-java
+
+__________________________________________________________________________________
+
+
+__________________________________________________________________________________
 
 #### Data Types in Java
 - Primitive Data Types - Boolean, Byte, char, short, int, long, float, double.
