@@ -1,4 +1,4 @@
-class Demorel
+class Relational_operator
 {
     public static void main(String args[])
     {
