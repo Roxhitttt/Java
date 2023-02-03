@@ -1,5 +1,5 @@
 import java.util.Scanner;  /* Import the Scanner class */ /* This is used to take input from the user like we use scanf in C programming language */
-class logical_operator
+class Scannerclass
 {
     public static void main(String args[]){
 
