@@ -199,6 +199,22 @@ A variable declared inside the class but outside the body of the method, is call
 3) Static variable:
 A variable that is declared as static is called a static variable. It cannot be local. You can create a single copy of the static variable and share it among all the instances of the class. Memory allocation for static variables happens only once when the class is loaded in the memory.
 
+#### Scanner class 
+
+Scanner class is used for taking input from user, To use the Scanner class, create an object of the class and use any of the available methods found in the Scanner class documentation. There are various method provide by scanner class given below: 
+
+the nextLine() method, which is used to read Strings  
+nextBoolean()	Reads a boolean value from the user  
+nextByte()	Reads a byte value from the user  
+nextDouble()	Reads a double value from the user  
+nextFloat()	Reads a float value from the user  
+nextInt()	Reads a int value from the user  
+nextLine()	Reads a String value from the user  
+nextLong()	Reads a long value from the user  
+nextShort()	Reads a short value from the user
+
+Example of Scanner Class to take inputs from the user: 
+https://github.com/Roxhitttt/Java/blob/6a27e407fb9e7b1a2c839b95a8d529aae79a754a/Jdk/logical_operator.java
 
 __________________________________________________________________________________
 
