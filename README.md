@@ -217,6 +217,9 @@ nextShort()	Reads a short value from the user
 Example of Scanner Class to take inputs from the user: 
 https://github.com/Roxhitttt/Java/blob/6a27e407fb9e7b1a2c839b95a8d529aae79a754a/Jdk/logical_operator.java
 
+Example 1 - Task 1 :
+https://github.com/Roxhitttt/Java/blob/d851030aecc2a7744a8f5eecfcad13909cdacd39/Jdk/task1.java
+
 __________________________________________________________________________________
 
 #### Data Types in Java
