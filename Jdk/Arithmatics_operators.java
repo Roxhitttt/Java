@@ -20,5 +20,7 @@ class Arithmatics_operators
     c=a%b;
     System.out.println(c=a%b);
     System.out.println("Modulus of "+a+"and"+b+"is"+c);
+
+    System.out.println(10*10/5+3-1*4/2);    
     }
 }
