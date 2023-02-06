@@ -200,6 +200,43 @@ A variable declared inside the class but outside the body of the method, is call
 A variable that is declared as static is called a static variable. It cannot be local. You can create a single copy of the static variable and share it among all the instances of the class. Memory allocation for static variables happens only once when the class is loaded in the memory.
 __________________________________________________________________________________
 
+#### Data Types in Java
+
+![image](https://user-images.githubusercontent.com/62470301/216961775-934c23c2-2188-4c36-a6bc-c9343e762bda.png)
+
+Example of Primitive Data Types in one link:
+https://github.com/Roxhitttt/Java/blob/1290c46e9cf0a3e668f7de09c733396c40871ca0/Jdk/demodatatype.java
+
+__________________________________________________________________________________
+
+#### Unicode System
+
+Unicode is a universal international standard character encoding that is capable of representing most of the world's written languages.
+
+In unicode, character holds 2 byte, so java also uses 2 byte for characters.
+
+lowest value:\u0000
+
+highest value:\uFFFF
+__________________________________________________________________________________
+
+#### Operators in Java 
+
+There are many types of operators in Java which are given below:
+
+- Unary Operator - The Java unary operators require only one operand....
+incrementing/decrementing a value by one
+  negating an expression
+  inverting the value of a boolean
+- Arithmetic Operator - 
+- Shift Operator - 
+- Relational Operator - 
+- Bitwise Operator - 
+- Logical Operator - 
+- Ternary Operator  - 
+- Assignment Operator - 
+__________________________________________________________________________________
+
 #### Scanner class 
 
 Scanner class is used for taking input from user, To use the Scanner class, create an object of the class and use any of the available methods found in the Scanner class documentation. There are various method provide by scanner class given below: 
@@ -222,10 +259,5 @@ https://github.com/Roxhitttt/Java/blob/d851030aecc2a7744a8f5eecfcad13909cdacd39/
 
 __________________________________________________________________________________
 
-#### Data Types in Java
-- Primitive Data Types - Boolean, Byte, char, short, int, long, float, double.
-- Non-primitive Data Types - Array, Class.
 
-Example of Primitive Data Types in one link:
-https://github.com/Roxhitttt/Java/blob/1290c46e9cf0a3e668f7de09c733396c40871ca0/Jdk/demodatatype.java
 
