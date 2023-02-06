@@ -17,7 +17,5 @@ class Relational_operator
               System.out.println(a+"=="+b+" is "+c);
               c=a!=b;
               System.out.println(a+"!="+b+" is "+c);
-
-
     }
 }
