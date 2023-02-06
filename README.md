@@ -252,8 +252,10 @@ There are many types of operators in Java which are given below:
 - Ternary Operator  - 
 - Assignment Operator - 
 __________________________________________________________________________________
+<details><summary>Scanner class</summary>  
+<p>
 
-#### Scanner class 
+ #### Scanner class 
 
 Scanner class is used for taking input from user, To use the Scanner class, create an object of the class and use any of the available methods found in the Scanner class documentation. There are various method provide by scanner class given below: 
 
@@ -272,6 +274,10 @@ https://github.com/Roxhitttt/Java/blob/6a27e407fb9e7b1a2c839b95a8d529aae79a754a/
 
 Example 1 - Task 1 :
 https://github.com/Roxhitttt/Java/blob/d851030aecc2a7744a8f5eecfcad13909cdacd39/Jdk/task1.java
+ 
+</p>
+</details>
+
 
 __________________________________________________________________________________
 
