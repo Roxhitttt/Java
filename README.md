@@ -198,6 +198,9 @@ A variable declared inside the class but outside the body of the method, is call
 
 3) Static variable:
 A variable that is declared as static is called a static variable. It cannot be local. You can create a single copy of the static variable and share it among all the instances of the class. Memory allocation for static variables happens only once when the class is loaded in the memory.
+
+Example: 
+https://github.com/Roxhitttt/Java/blob/554b334d1f97be4aabcc1cdedc5f2c13de2edae2/Jdk/Types_of_Variables.jav
 __________________________________________________________________________________
 
 #### Data Types in Java
@@ -224,11 +227,24 @@ ________________________________________________________________________________
 
 There are many types of operators in Java which are given below:
 
-- Unary Operator - The Java unary operators require only one operand....
-incrementing/decrementing a value by one
-  negating an expression
+1. Unary Operator - The Java unary operators require only one operand  
+  incrementing/decrementing a value by one  
+  negating an expression  
   inverting the value of a boolean
-- Arithmetic Operator - 
+  
+  postfix - expr++ expr--  
+  prefix - ++expr --expr +expr -expr ~ !
+  
+  Example :  
+  https://github.com/Roxhitttt/Java/blob/e7999a8b5af85a81df67c12b53b72e10e2cb5549/Jdk/unaryoperator.java
+  
+  
+  
+2. Arithmetic Operator -  
+
+ Example :  
+ https://github.com/Roxhitttt/Java/blob/e8cbbb77cf304ea6d30f59cb4cc275eae0308678/Jdk/Arithmatics_operators.java
+ 
 - Shift Operator - 
 - Relational Operator - 
 - Bitwise Operator - 
