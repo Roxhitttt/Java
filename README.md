@@ -25,9 +25,12 @@ ________________________________________________________________________________
 #### History of Java
  Java was developed by James Gosling, who is known as the father of Java, in 1995.  
  Java is an island in Indonesia where the first coffee was produced (called Java coffee). It is a kind of espresso bean. Java name was chosen by James Gosling while having a cup of coffee nearby his office.
+
 __________________________________________________________________________________
 
-#### Features of Java  
+<details><summary>Features of Java</summary>  
+<p>
+ #### Features of Java  
 A list of the most important features of the Java language is given below.  
 1.Simple - Java syntax is based on C++. Java has removed explicit pointers, operator overloading, etc.
 
@@ -94,6 +97,10 @@ Security Manager
 10.Multithreaded  
 11.Distributed  
 12.Dynamic
+ 
+</p>
+</details>
+
 __________________________________________________________________________________
 
 #### C++ vs Java
@@ -103,7 +110,18 @@ Platform-independent, Mainly used for, Multiple inheritance, Operator Overloadin
 
 https://www.javatpoint.com/cpp-vs-java
 __________________________________________________________________________________
-#### First Java Program | Hello World Example
+
+<details><summary>Scanner class</summary>  
+<p>
+ 
+</p>
+</details>
+
+__________________________________________________________________________________
+
+<details><summary>First Java Program | Hello World Example</summary>  
+<p>
+ #### First Java Program | Hello World Example
 
 Set path of the jdk/bin directory.  
 ```
@@ -143,6 +161,10 @@ System.out.println() is used to print statement. Here, System is a class, out is
 
 Example: First basic program of Java.
 https://github.com/Roxhitttt/Java/blob/5c9b8d217fe2b61aa8e35400577cd862e1d3f3a4/Jdk/firstjava.java
+ 
+</p>
+</details>
+
 __________________________________________________________________________________
 
 #### How to set path in java
@@ -182,7 +204,9 @@ The JVM performs following operation: Loads code, Verifies code, Executes code, 
 
 __________________________________________________________________________________
 
-#### Java Variables
+<details><summary>Java Variables</summary>  
+<p>
+ #### Java Variables
 
 ![image](https://user-images.githubusercontent.com/62470301/216408305-068b8d8c-87b2-420e-b5dc-a7fc276bb7c9.png)
 
@@ -201,6 +225,9 @@ A variable that is declared as static is called a static variable. It cannot be 
 
 Example: 
 https://github.com/Roxhitttt/Java/blob/554b334d1f97be4aabcc1cdedc5f2c13de2edae2/Jdk/Types_of_Variables.jav
+</p>
+</details>
+
 __________________________________________________________________________________
 
 #### Data Types in Java
@@ -223,7 +250,9 @@ lowest value:\u0000
 highest value:\uFFFF
 __________________________________________________________________________________
 
-#### Operators in Java 
+<details><summary>Operators in Java</summary>  
+<p>
+ #### Operators in Java 
 
 There are many types of operators in Java which are given below:
 
@@ -251,6 +280,9 @@ There are many types of operators in Java which are given below:
 - Logical Operator - 
 - Ternary Operator  - 
 - Assignment Operator - 
+</p>
+</details>
+
 __________________________________________________________________________________
 <details><summary>Scanner class</summary>  
 <p>
@@ -277,7 +309,6 @@ https://github.com/Roxhitttt/Java/blob/d851030aecc2a7744a8f5eecfcad13909cdacd39/
  
 </p>
 </details>
-
 
 __________________________________________________________________________________
 
