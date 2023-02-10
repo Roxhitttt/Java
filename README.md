@@ -311,6 +311,16 @@ https://github.com/Roxhitttt/Java/blob/d851030aecc2a7744a8f5eecfcad13909cdacd39/
 </details>
 
 __________________________________________________________________________________
+<details><summary>Scanner class</summary>  
+<p>
+
+#### Function
+
+There are 4 types of function
+
+1. Function without argument without return value: 
 
 
 
+</p>
+</details>
