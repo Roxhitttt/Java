@@ -330,7 +330,8 @@ https://github.com/Roxhitttt/Java/blob/ac57dd26e574a6e153f9a5fb8a10db375577688e/
 3. Method with argument with return value:
 https://github.com/Roxhitttt/Java/blob/ac57dd26e574a6e153f9a5fb8a10db375577688e/Jdk/Functions/Function4.java
 
-4. Method 
+4. Method without argument with return value:
+ https://github.com/Roxhitttt/Java/blob/df69d28b5294958ce32308e31477d08cf204108b/Jdk/Functions/Function5.java
 
 
 
