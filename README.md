@@ -311,14 +311,26 @@ https://github.com/Roxhitttt/Java/blob/d851030aecc2a7744a8f5eecfcad13909cdacd39/
 </details>
 
 __________________________________________________________________________________
-<details><summary>Scanner class</summary>  
+<details><summary>Methods</summary>  
 <p>
 
-#### Function
+#### Methods
 
-There are 4 types of function
+There are 4 types of Methods
 
-1. Function without argument without return value: 
+Methods are also called as Functions
+
+1. Method without argument without return value: 
+https://github.com/Roxhitttt/Java/blob/ac57dd26e574a6e153f9a5fb8a10db375577688e/Jdk/Functions/Function1.java
+
+2. Method with argument but without return value:
+https://github.com/Roxhitttt/Java/blob/ac57dd26e574a6e153f9a5fb8a10db375577688e/Jdk/Functions/Function2a.java
+https://github.com/Roxhitttt/Java/blob/ac57dd26e574a6e153f9a5fb8a10db375577688e/Jdk/Functions/Function2b.java
+
+3. Method with argument with return value:
+https://github.com/Roxhitttt/Java/blob/ac57dd26e574a6e153f9a5fb8a10db375577688e/Jdk/Functions/Function4.java
+
+4. Method 
 
 
 
