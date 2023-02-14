@@ -357,16 +357,23 @@ https://github.com/Roxhitttt/Java/blob/f9211539fd873253cb279446086e0a65c7633078/
 Practicle no 3: Check given character is consonent or vowel.  
 https://github.com/Roxhitttt/Java/blob/f9211539fd873253cb279446086e0a65c7633078/Jdk/Operators/if3.java
 
-
+ Practicle no 4: Nested If else : Find greater between 3 numbers using nested if else.  
+ https://github.com/Roxhitttt/Java/blob/61e54ae8316180062b57e092f9c00cb4f43d1503/Jdk/Operators/ifnestedifelse.java
+ 
+ Practice no 5: Company having criteria for selection given below:  
+criteria 1: Applicant must have BE completed or Diploma with 7 year Experiance.  
+ criteria 2: If BE is completed must have 60% or BE without 60% must have 3 years experiance.  
+ criteria 3: if Diploman with 7 year experiance must have work in quality department.
+ 
 </p>
 </details>
 
 __________________________________________________________________________________
 
-<details><summary>If Statement</summary>  
+<details><summary>For Loop</summary>  
 <p>
 
-#### If Statement 
+#### For Loop 
 
 
 </p>
