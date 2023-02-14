@@ -284,6 +284,7 @@ There are many types of operators in Java which are given below:
 </details>
 
 __________________________________________________________________________________
+
 <details><summary>Scanner class</summary>  
 <p>
 
@@ -311,6 +312,7 @@ https://github.com/Roxhitttt/Java/blob/d851030aecc2a7744a8f5eecfcad13909cdacd39/
 </details>
 
 __________________________________________________________________________________
+
 <details><summary>Methods</summary>  
 <p>
 
@@ -333,7 +335,85 @@ https://github.com/Roxhitttt/Java/blob/ac57dd26e574a6e153f9a5fb8a10db375577688e/
 4. Method without argument with return value:
  https://github.com/Roxhitttt/Java/blob/df69d28b5294958ce32308e31477d08cf204108b/Jdk/Functions/Function5.java
 
+</p>
+</details>
+
+__________________________________________________________________________________
+
+<details><summary>If Statement</summary>  
+<p>
+
+#### If Statement 
+
+If Example : 
+https://github.com/Roxhitttt/Java/blob/06a28125106494ff3fe8a3d45f1ed20ec482a440/Jdk/Operators/demoif.java
+
+Practicle no 1: Given num is even or odd  
+https://github.com/Roxhitttt/Java/blob/f9211539fd873253cb279446086e0a65c7633078/Jdk/Operators/if1.java
+
+Practiicle no 2: check wether given num is positive no or negative no.  
+https://github.com/Roxhitttt/Java/blob/f9211539fd873253cb279446086e0a65c7633078/Jdk/Operators/if2.java
+
+Practicle no 3: Check given character is consonent or vowel.  
+https://github.com/Roxhitttt/Java/blob/f9211539fd873253cb279446086e0a65c7633078/Jdk/Operators/if3.java
 
 
 </p>
 </details>
+
+__________________________________________________________________________________
+
+<details><summary>If Statement</summary>  
+<p>
+
+#### If Statement 
+
+
+</p>
+</details>
+
+__________________________________________________________________________________
+
+<details><summary>If Statement</summary>  
+<p>
+
+#### If Statement 
+
+
+</p>
+</details>
+
+__________________________________________________________________________________
+
+<details><summary>If Statement</summary>  
+<p>
+
+#### If Statement 
+
+
+</p>
+</details>
+
+__________________________________________________________________________________
+
+<details><summary>If Statement</summary>  
+<p>
+
+#### If Statement 
+
+
+</p>
+</details>
+
+__________________________________________________________________________________
+
+<details><summary>If Statement</summary>  
+<p>
+
+#### If Statement 
+
+
+</p>
+</details>
+
+__________________________________________________________________________________
