@@ -383,10 +383,12 @@ Example:
 
 __________________________________________________________________________________
 
-<details><summary>If Statement</summary>  
+<details><summary>Do While loop </summary>  
 <p>
 
-#### If Statement 
+#### Do While loop  
+
+
 
 
 </p>
@@ -394,10 +396,18 @@ ________________________________________________________________________________
 
 __________________________________________________________________________________
 
-<details><summary>If Statement</summary>  
+<details><summary>Array</summary>  
 <p>
 
-#### If Statement 
+#### Array 
+
+Array are used to store multiple values in a single variable instead of declaring seperate variable for each value. 
+
+Syntax of declaration of array:
+```
+datatype [] arrayname=new datatype[size];
+```
+
 
 
 </p>
