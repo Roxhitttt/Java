@@ -370,10 +370,10 @@ criteria 1: Applicant must have BE completed or Diploma with 7 year Experiance.
 
 __________________________________________________________________________________
 
-<details><summary>For Loop</summary>  
+<details><summary>Switch Case</summary>  
 <p>
 
-#### For Loop 
+#### Switch Case: 
 
 Example: 
 
