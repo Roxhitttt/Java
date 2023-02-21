@@ -420,7 +420,8 @@ int[] a={10,20,30,40};
 Example 1: printing 4 array elements and 5 array elements from user and from computer using array and for loop:  
 https://github.com/Roxhitttt/Java/blob/9598a64dd92d508e147b608cbc3dd6a4d4c19f23/Jdk/Operators/arraydemo.java
 
-Example 2: 
+Example 2: Searching array elements:
+ https://github.com/Roxhitttt/Java/blob/700f7f084eba10695d0315222720a670c1cf8b3f/Jdk/Operators/arraydemo2.java
 
 
 </p>
