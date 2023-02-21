@@ -370,26 +370,29 @@ criteria 1: Applicant must have BE completed or Diploma with 7 year Experiance.
 
 __________________________________________________________________________________
 
-<details><summary>Switch Case</summary>  
+<details><summary>Do While loop </summary>  
 <p>
 
-#### Switch Case: 
+#### Do While loop  
 
-Example: 
+Example 1: Print 1 to 10 numbers using Do while loop  
+https://github.com/Roxhitttt/Java/blob/9598a64dd92d508e147b608cbc3dd6a4d4c19f23/Jdk/Operators/dowhile.java
 
+Example 2: Menu Driven program using Do while loop and Switch case  
+https://github.com/Roxhitttt/Java/blob/9598a64dd92d508e147b608cbc3dd6a4d4c19f23/Jdk/Operators/menudreven.java
 
 </p>
 </details>
 
 __________________________________________________________________________________
 
-<details><summary>Do While loop </summary>  
+<details><summary>Switch Case </summary>  
 <p>
 
-#### Do While loop  
+#### Switch Case  
 
-
-
+Example 1: Menu Driven program using Do while loop and Switch case methods  
+https://github.com/Roxhitttt/Java/blob/9598a64dd92d508e147b608cbc3dd6a4d4c19f23/Jdk/Operators/menudreven2.java
 
 </p>
 </details>
@@ -405,9 +408,19 @@ Array are used to store multiple values in a single variable instead of declarin
 
 Syntax of declaration of array:
 ```
-datatype [] arrayname=new datatype[size];
-```
+datatype [] arrayname=new datatype[size]; 
+float[] b=new float[10];
 
+&
+
+datatype [] arrayname={values, values, values};
+int[] a={10,20,30,40};
+
+```
+Example 1: printing 4 array elements and 5 array elements from user and from computer using array and for loop:  
+https://github.com/Roxhitttt/Java/blob/9598a64dd92d508e147b608cbc3dd6a4d4c19f23/Jdk/Operators/arraydemo.java
+
+Example 2: 
 
 
 </p>
