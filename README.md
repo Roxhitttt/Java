@@ -370,10 +370,12 @@ criteria 1: Applicant must have BE completed or Diploma with 7 year Experiance.
 
 __________________________________________________________________________________
 
-<details><summary>For Loop</summary>  
+<details><summary>Switch Case</summary>  
 <p>
 
-#### For Loop 
+#### Switch Case: 
+
+Example: 
 
 
 </p>
@@ -381,10 +383,12 @@ ________________________________________________________________________________
 
 __________________________________________________________________________________
 
-<details><summary>If Statement</summary>  
+<details><summary>Do While loop </summary>  
 <p>
 
-#### If Statement 
+#### Do While loop  
+
+
 
 
 </p>
@@ -392,10 +396,18 @@ ________________________________________________________________________________
 
 __________________________________________________________________________________
 
-<details><summary>If Statement</summary>  
+<details><summary>Array</summary>  
 <p>
 
-#### If Statement 
+#### Array 
+
+Array are used to store multiple values in a single variable instead of declaring seperate variable for each value. 
+
+Syntax of declaration of array:
+```
+datatype [] arrayname=new datatype[size];
+```
+
 
 
 </p>
