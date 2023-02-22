@@ -429,11 +429,16 @@ Example 2: Searching array elements:
 
 __________________________________________________________________________________
 
-<details><summary>If Statement</summary>  
+<details><summary> Class & Objects </summary>  
 <p>
 
-#### If Statement 
+#### Class & Objects
 
+Example 1: 
+https://github.com/Roxhitttt/Java/blob/82ae8c3507c4bd444a4207a844990de58a0a5237/Jdk/Class%20and%20Objects/classexample.java
+
+Example 2:
+https://github.com/Roxhitttt/Java/blob/82ae8c3507c4bd444a4207a844990de58a0a5237/Jdk/Class%20and%20Objects/classexample2.java
 
 </p>
 </details>
