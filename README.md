@@ -109,13 +109,6 @@ Only read the given points from below link:
 Platform-independent, Mainly used for, Multiple inheritance, Operator Overloading, Pointers, Compiler and Interpreter, Call by Value and Call by reference, Structure and Union, Hardware.
 
 https://www.javatpoint.com/cpp-vs-java
-__________________________________________________________________________________
-
-<details><summary>Scanner class</summary>  
-<p>
- 
-</p>
-</details>
 
 __________________________________________________________________________________
 
