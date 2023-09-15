@@ -1,25 +1,23 @@
-class democonstct
+class defaultcontractor
 {
    int i;
    int j;
-    democonstct()
+    defaultcontractor()
     {
          i=10;
          j=5;
-
     }
     void show()
     {
         System.out.println("first "+i);
-       System.out.println("second "+j);
-           
+        System.out.println("second "+j);
     }
     public static void main(String args[])
     {
-        democonstct o=new democonstct();
+        defaultcontractor o=new defaultcontractor();
         o.show();
 
-         democonstct o2=new democonstct();
+        defaultcontractor o2=new defaultcontractor();
         o2.show();
     }
 }

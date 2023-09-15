@@ -1,8 +1,8 @@
 import java.util.*;
-class defaultconct{
+class para_contructor{
     int length;
     int breadth;
-    defaultconct(int l,int b){
+    para_contructor(int l,int b){
         length = l;
         breadth = b;
     }
@@ -18,7 +18,7 @@ class defaultconct{
           System.out.println("Enter breadth");
           brt=sc.nextInt();
           
-        defaultconct o=new defaultconct(len,brt);
+        para_contructor o=new para_contructor(len,brt);
         o.show();
         sc.close();
     }
