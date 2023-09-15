@@ -707,6 +707,18 @@ https://github.com/Roxhitttt/Java/blob/61a7e3be1792408c06fa34b11365832d4c4a4d7e/
 Example2: Method Overloading: changing data type of arguments - we have created two methods that differs in data type. The first add method receives two integer arguments and second add method receives two double arguments.
 https://github.com/Roxhitttt/Java/blob/61a7e3be1792408c06fa34b11365832d4c4a4d7e/Jdk/Method%20Overloading/demo2.java
 
+Example3:
+https://github.com/Roxhitttt/Java/blob/1ddd397f90162d85e459f315d211d6e690f2c572/Jdk/Method%20Overloading/demooverload.java
+
+Example4: Area of Square of Rectangle 
+https://github.com/Roxhitttt/Java/blob/1ddd397f90162d85e459f315d211d6e690f2c572/Jdk/Method%20Overloading/rectangle.java
+
+Example5: Contructor Overloading
+https://github.com/Roxhitttt/Java/blob/1ddd397f90162d85e459f315d211d6e690f2c572/Jdk/Method%20Overloading/contructor_overloading.java
+
+Example6: Time Example 
+https://github.com/Roxhitttt/Java/blob/1ddd397f90162d85e459f315d211d6e690f2c572/Jdk/Method%20Overloading/time.java
+
 ### Method Overloading and Type Promotion
 One type is promoted to another implicitly if no matching datatype is found. Let's understand the concept by the figure given below:
 ![image](https://github.com/Roxhitttt/Java/assets/62470301/11b5fc7f-ffb5-4378-b7e8-f8b0fbb42f47)
