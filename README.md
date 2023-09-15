@@ -415,7 +415,7 @@ A method is a block of code or collection of statements or a set of code grouped
 
 It is also possible that a method has the same name as another method name in the same class, it is known as method overloading.
 
-There are 4 types of Methods : Methods are also called as Functions
+There are 2 types of Methods : Methods are also called as Functions
 
 - Predefined Method : The method that is already defined in the Java class libraries is known as predefined methods. It is also known as the standard library method or built-in method. We can directly use these methods just by calling them in the program at any point. Some pre-defined methods are length(), equals(), compareTo(), sqrt(), etc.
 
@@ -424,11 +424,17 @@ https://github.com/Roxhitttt/Java/blob/a5e4222ec604150935ea30d89ce7593506450213/
 
 In the above example, we have used three predefined methods main(), print(), and max(). We have used these methods directly without declaration because they are predefined. The max() method is a method of the Math class that returns the greater of two numbers.
 
+- User-defined Method : The method written by the user or programmer is known as a user-defined method.
 
+- Static Method : A method that has static keyword is known as static method. The main advantage of a static method is that we can call it without creating an object. It can access static data members and also change the value of it. It is used to create an instance method. It is invoked by using the class name.
 
+Example : 
+https://github.com/Roxhitttt/Java/blob/08c51446626ad005f84f9b02e1e856e1161df024/Jdk/Methods%20and%20Functions/static_method.java
 
+- Instance Method : The method of the class is known as an instance method. It is a non-static method defined in the class. Before calling or invoking the instance method, it is necessary to create an object of its class. Let's see an example of an instance method.
 
-- User-defined Method : 
+Example : 
+https://github.com/Roxhitttt/Java/blob/36ef7c60eba4acdbc40dc2ebcc023c9033dd425e/Jdk/Methods%20and%20Functions/instance_methods.java
  
 1. Method without argument without return value: 
 https://github.com/Roxhitttt/Java/blob/ac57dd26e574a6e153f9a5fb8a10db375577688e/Jdk/Functions/Function1.java
