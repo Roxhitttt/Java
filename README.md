@@ -353,29 +353,56 @@ ________________________________________________________________________________
 Object means a real-world entity such as a pen, chair, table, computer, watch, etc. Object-Oriented Programming is a methodology or paradigm to design a program using classes and objects. It simplifies software development and maintenance by providing some concepts:
 ![image](https://github.com/Roxhitttt/Java/assets/62470301/a9e291b7-34e1-48b2-bde1-75454b20a438)
 
-- Object : 
-Class
-Inheritance
-Polymorphism
-Abstraction
-Encapsulation
-Apart from these concepts, there are some other terms which are used in Object-Oriented design:
-Coupling
-Cohesion
-Association
-Aggregation
-Composition
+- Object : For example, a chair, pen, table, keyboard, bike, etc. It can be physical or logical. An Object can be defined as an instance of a class. An object contains an address and takes up some space in memory. Objects can communicate without knowing the details of each other's data or code.
+
+An object has three characteristics: 
+![image](https://github.com/Roxhitttt/Java/assets/62470301/fe637253-4218-47d0-a2f6-10a6fcff4351)
+For Example, Pen is an object. Its name is Reynolds; color is white, known as its state. It is used to write, so writing is its behavior.
+
+An object is an instance of a class. A class is a template or blueprint from which objects are created. So, an object is the instance(result) of a class.
+
+Object Definitions: An object is a real-world entity., An object is a runtime entity., The object is an entity which has state and behavior, The object is an instance of a class.
+
+- Class : Collection of objects is called class. It is a logical entity. A class can also be defined as a blueprint from which you can create an individual object. Class doesn't consume any space.
+
+A class is a group of objects which have common properties. It is a template or blueprint from which objects are created. It is a logical entity. It can't be physical. 
+
+A class in Java can contain: Fields, Methods, Constructors, Blocks, Nested class and interface.
 
 
+  
+- Inheritance : When one object acquires all the properties and behaviors of a parent object, it is known as inheritance. It provides code reusability. It is used to achieve runtime polymorphism.
+- Polymorphism : + If one task is performed in different ways, it is known as polymorphism. For example: to convince the customer differently, to draw something, for example, shape, triangle, rectangle, etc. In Java, we use method overloading and method overriding to achieve polymorphism.
+- Abstraction : Hiding internal details and showing functionality is known as abstraction. For example phone call, we don't know the internal processing. In Java, we use abstract class and interface to achieve abstraction.
+- Encapsulation : Binding (or wrapping) code and data together into a single unit are known as encapsulation. For example, a capsule, it is wrapped with different medicines. A java class is the example of encapsulation. Java bean is the fully encapsulated class because all the data members are private here.
+![image](https://github.com/Roxhitttt/Java/assets/62470301/893c770d-f92b-4195-8c1b-22e9ac2d1bd0)
+
+Apart from these concepts, there are some other terms which are used in Object-Oriented design: Try understanding this concepts whenever you want
+Coupling, Cohesion, Association, Aggregation, Composition
+
+Example : 
+https://github.com/Roxhitttt/Java/blob/1a838a75eb62aa9f544f5dbc7d0bc157daaf0a45/Jdk/Class%20and%20Objects/object_class_ex.java
+
+Example1 :
+https://github.com/Roxhitttt/Java/blob/77b1da81e98b2c92db1c37a8c1a7d63e28c90063/Jdk/Class%20and%20Objects/classexample.java
+
+Example2 :
+https://github.com/Roxhitttt/Java/blob/77b1da81e98b2c92db1c37a8c1a7d63e28c90063/Jdk/Class%20and%20Objects/classexample2.java
 
 </p>
 </details>
+
 __________________________________________________________________________________
 
 <details><summary>Methods</summary>  
 <p>
 
 #### Methods
+In Java, a method is like a function which is used to expose the behavior of an object.
+
+Advantage of Method : 
+Code Reusability
+Code Optimization
 
 There are 4 types of Methods
 
