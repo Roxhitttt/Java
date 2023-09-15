@@ -225,7 +225,7 @@ A variable declared inside the class but outside the body of the method, is call
 A variable that is declared as static is called a static variable. It cannot be local. You can create a single copy of the static variable and share it among all the instances of the class. Memory allocation for static variables happens only once when the class is loaded in the memory.
 
 Example: 
-https://github.com/Roxhitttt/Java/blob/554b334d1f97be4aabcc1cdedc5f2c13de2edae2/Jdk/Types_of_Variables.jav
+(https://github.com/Roxhitttt/Java/blob/211398d4e161386f75537dc2909c0f617d2ba6e9/Jdk/Basic/Types_of_Variables.java)
 </p>
 </details>
 
