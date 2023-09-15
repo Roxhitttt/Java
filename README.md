@@ -596,4 +596,14 @@ Example 2: Searching array elements:
 
 __________________________________________________________________________________
 
+<details><summary>Remaining from javatpoint</summary>  
+<p>
+ 
+1. Static Keyword
+2. This keyword
+3.
 
+</p>
+</details>
+
+__________________________________________________________________________________
