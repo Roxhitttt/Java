@@ -661,7 +661,17 @@ When one class inherits multiple classes, it is known as multiple inheritance. F
 
 Multilevel inheritance and Super :
 
-### 
+### Super Keyword in Java
+The super keyword in Java is a reference variable which is used to refer immediate parent class object. 
+
+Whenever you create the instance of subclass, an instance of parent class is created implicitly which is referred by super reference variable.
+
+Usage of Java super Keyword: 
+1. super can be used to refer immediate parent class instance variable.
+2. super can be used to invoke immediate parent class method.
+3. super() can be used to invoke immediate parent class constructor.
+
+
 
 Example 1 : 
 https://github.com/Roxhitttt/Java/blob/c0150bb9d1e235382bba41062f1b3775d6d177ab/Jdk/inheritance/super_and_multilevel_inher/inhe_contr_super_ex.java
