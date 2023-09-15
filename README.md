@@ -507,10 +507,45 @@ https://github.com/Roxhitttt/Java/blob/98c11587e641214cf8b6b2775da6a31635ba1801/
 
 __________________________________________________________________________________
 
-<details><summary>If Statement</summary>  
+<details><summary>control flow statements</summary>  
 <p>
+ 
+#### Java provides three types of control flow statements.
 
-#### If Statement 
+## Decision Making statements
+1. if statements
+2. switch statement
+## Loop statements
+1. do while loop
+2. while loop
+3. for loop
+4. for-each loop
+## Jump statements
+1. break statement
+2. continue statement
+
+#### If Statement :
+
+If-else-if ladder: The if-else-if statement contains the if-statement followed by multiple else-if statements.
+
+![image](https://github.com/Roxhitttt/Java/assets/62470301/8255d3ff-0942-4d59-8d2c-d765b0ae298e)
+
+<details><summary>Code of If-else-if ladder</summary>  
+<p>
+ 
+if(condition 1) {    
+statement 1; //executes when condition 1 is true   
+}  
+else if(condition 2) {  
+statement 2; //executes when condition 2 is true   
+}  
+else {  
+statement 2; //executes when all the conditions are false   
+}  
+ 
+</p>
+</details>
+
 
 If Example : 
 https://github.com/Roxhitttt/Java/blob/06a28125106494ff3fe8a3d45f1ed20ec482a440/Jdk/Operators/demoif.java
@@ -524,42 +559,91 @@ https://github.com/Roxhitttt/Java/blob/f9211539fd873253cb279446086e0a65c7633078/
 Practicle no 3: Check given character is consonent or vowel.  
 https://github.com/Roxhitttt/Java/blob/f9211539fd873253cb279446086e0a65c7633078/Jdk/Operators/if3.java
 
- Practicle no 4: Nested If else : Find greater between 3 numbers using nested if else.  
- https://github.com/Roxhitttt/Java/blob/61e54ae8316180062b57e092f9c00cb4f43d1503/Jdk/Operators/ifnestedifelse.java
+Nested If Else : 
+
+Practicle no 4: Nested If else : Find greater between 3 numbers using nested if else.  
+https://github.com/Roxhitttt/Java/blob/61e54ae8316180062b57e092f9c00cb4f43d1503/Jdk/Operators/ifnestedifelse.java
  
- Practice no 5: Company having criteria for selection given below:  
+Practice no 5: Company having criteria for selection given below:  
 criteria 1: Applicant must have BE completed or Diploma with 7 year Experiance.  
- criteria 2: If BE is completed must have 60% or BE without 60% must have 3 years experiance.  
- criteria 3: if Diploman with 7 year experiance must have work in quality department.
- 
-</p>
-</details>
+criteria 2: If BE is completed must have 60% or BE without 60% must have 3 years experiance.  
+criteria 3: if Diploman with 7 year experiance must have work in quality department.
 
-__________________________________________________________________________________
+#### Switch Case :
 
-<details><summary>Do While loop </summary>  
-<p>
+Example 1: Menu Driven program using Do while loop and Switch case methods  
+https://github.com/Roxhitttt/Java/blob/fa06e5cb5fc63900c245ca8f898f66a7f0763ba1/Jdk/Control%20Statements%2C%20if%2Cfor%2Cwhile%20and%20all/menudreven.java
 
-#### Do While loop  
+Example 2: 
+https://github.com/Roxhitttt/Java/blob/fa06e5cb5fc63900c245ca8f898f66a7f0763ba1/Jdk/Control%20Statements%2C%20if%2Cfor%2Cwhile%20and%20all/menudreven2.java
 
-Example 1: Print 1 to 10 numbers using Do while loop  
-https://github.com/Roxhitttt/Java/blob/9598a64dd92d508e147b608cbc3dd6a4d4c19f23/Jdk/Operators/dowhile.java
+![image](https://github.com/Roxhitttt/Java/assets/62470301/c2912ce2-0a5b-4d73-abc9-7c1b3a1edf06)
+
+#### For loop :
+It enables us to initialize the loop variable, check the condition, and increment/decrement in a single line of code. 
+
+![image](https://github.com/Roxhitttt/Java/assets/62470301/9ad8fc6f-9b92-49ff-a4aa-1f86c9ad7e9e)
+
+Example1 : 
+https://github.com/Roxhitttt/Java/blob/fa06e5cb5fc63900c245ca8f898f66a7f0763ba1/Jdk/Control%20Statements%2C%20if%2Cfor%2Cwhile%20and%20all/Forloop.java
+
+Example2 : 
+https://github.com/Roxhitttt/Java/blob/fa06e5cb5fc63900c245ca8f898f66a7f0763ba1/Jdk/Control%20Statements%2C%20if%2Cfor%2Cwhile%20and%20all/Forloop2.java
+
+Example3 : 
+https://github.com/Roxhitttt/Java/blob/fa06e5cb5fc63900c245ca8f898f66a7f0763ba1/Jdk/Control%20Statements%2C%20if%2Cfor%2Cwhile%20and%20all/nestedfor.java
+
+#### While Loop : 
+The while loop is also used to iterate over the number of statements multiple times.  If the condition is true, then the loop body will be executed; otherwise, the statements after the loop will be executed.
+
+![image](https://github.com/Roxhitttt/Java/assets/62470301/0262b1c1-57fe-46a0-a703-e3d504d43a0c)
+
+Example1:
+https://github.com/Roxhitttt/Java/blob/fa06e5cb5fc63900c245ca8f898f66a7f0763ba1/Jdk/Control%20Statements%2C%20if%2Cfor%2Cwhile%20and%20all/whileloop.java
+
+Example2:
+https://github.com/Roxhitttt/Java/blob/fa06e5cb5fc63900c245ca8f898f66a7f0763ba1/Jdk/Control%20Statements%2C%20if%2Cfor%2Cwhile%20and%20all/while2.java
+
+Example3:
+https://github.com/Roxhitttt/Java/blob/fa06e5cb5fc63900c245ca8f898f66a7f0763ba1/Jdk/Control%20Statements%2C%20if%2Cfor%2Cwhile%20and%20all/while3.java
+
+#### Do While loop : 
+The do-while loop checks the condition at the end of the loop after executing the loop statements. When the number of iteration is not known and we have to execute the loop at least once, we can use do-while loop.
+
+![image](https://github.com/Roxhitttt/Java/assets/62470301/df814023-d908-4ee6-9434-b4ed4e659b30)
+
+Example : 
+https://github.com/Roxhitttt/Java/blob/fa06e5cb5fc63900c245ca8f898f66a7f0763ba1/Jdk/Control%20Statements%2C%20if%2Cfor%2Cwhile%20and%20all/dowhile.java
 
 Example 2: Menu Driven program using Do while loop and Switch case  
 https://github.com/Roxhitttt/Java/blob/9598a64dd92d508e147b608cbc3dd6a4d4c19f23/Jdk/Operators/menudreven.java
-
+ 
 </p>
 </details>
 
 __________________________________________________________________________________
 
-<details><summary>Switch Case </summary>  
+<details><summary>Inheritance</summary>  
 <p>
+Inheritance in Java is a mechanism in which one object acquires all the properties and behaviors of a parent object. It is an important part of OOPs (Object Oriented programming system).
 
-#### Switch Case  
+The idea behind inheritance in Java is that you can create new classes that are built upon existing classes. When you inherit from an existing class, you can reuse methods and fields of the parent class. Moreover, you can add new methods and fields in your current class also.
 
-Example 1: Menu Driven program using Do while loop and Switch case methods  
-https://github.com/Roxhitttt/Java/blob/9598a64dd92d508e147b608cbc3dd6a4d4c19f23/Jdk/Operators/menudreven2.java
+Inheritance represents the IS-A relationship which is also known as a parent-child relationship.
+
+The extends keyword indicates that you are making a new class that derives from an existing class. The meaning of "extends" is to increase the functionality.
+
+In the terminology of Java, a class which is inherited is called a parent or superclass, and the new class is called child or subclass.
+
+Java Inheritance Example
+![image](https://github.com/Roxhitttt/Java/assets/62470301/94862363-df45-4ff2-93b4-db6319b2c1f3)
+
+As displayed in the above figure, Programmer is the subclass and Employee is the superclass. The relationship between the two classes is Programmer IS-A Employee. It means that Programmer is a type of Employee.
+
+
+
+
+
 
 </p>
 </details>
@@ -590,7 +674,6 @@ https://github.com/Roxhitttt/Java/blob/9598a64dd92d508e147b608cbc3dd6a4d4c19f23/
 Example 2: Searching array elements:
  https://github.com/Roxhitttt/Java/blob/700f7f084eba10695d0315222720a670c1cf8b3f/Jdk/Operators/arraydemo2.java
 
-
 </p>
 </details>
 
@@ -601,7 +684,9 @@ ________________________________________________________________________________
  
 1. Static Keyword
 2. This keyword
-3.
+3. Java Programs -
+[https://www.javatpoint.com/java-programs](https://www.javatpoint.com/java-programs)
+
 
 </p>
 </details>
