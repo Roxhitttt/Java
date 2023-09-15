@@ -528,6 +528,8 @@ ________________________________________________________________________________
 
 If-else-if ladder: The if-else-if statement contains the if-statement followed by multiple else-if statements.
 
+![image](https://github.com/Roxhitttt/Java/assets/62470301/8255d3ff-0942-4d59-8d2c-d765b0ae298e)
+
 <details><summary>Code of If-else-if ladder</summary>  
 <p>
  
@@ -574,6 +576,8 @@ https://github.com/Roxhitttt/Java/blob/fa06e5cb5fc63900c245ca8f898f66a7f0763ba1/
 
 Example 2: 
 https://github.com/Roxhitttt/Java/blob/fa06e5cb5fc63900c245ca8f898f66a7f0763ba1/Jdk/Control%20Statements%2C%20if%2Cfor%2Cwhile%20and%20all/menudreven2.java
+
+![image](https://github.com/Roxhitttt/Java/assets/62470301/c2912ce2-0a5b-4d73-abc9-7c1b3a1edf06)
 
 #### For loop :
 It enables us to initialize the loop variable, check the condition, and increment/decrement in a single line of code. 
@@ -653,7 +657,9 @@ ________________________________________________________________________________
  
 1. Static Keyword
 2. This keyword
-3.
+3. Java Programs -
+[https://www.javatpoint.com/java-programs](https://www.javatpoint.com/java-programs)
+
 
 </p>
 </details>
