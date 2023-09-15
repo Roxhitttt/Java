@@ -507,10 +507,43 @@ https://github.com/Roxhitttt/Java/blob/98c11587e641214cf8b6b2775da6a31635ba1801/
 
 __________________________________________________________________________________
 
-<details><summary>If Statement</summary>  
+<details><summary>control flow statements</summary>  
 <p>
+ 
+#### Java provides three types of control flow statements.
 
-#### If Statement 
+## Decision Making statements
+1. if statements
+2. switch statement
+## Loop statements
+1. do while loop
+2. while loop
+3. for loop
+4. for-each loop
+## Jump statements
+1. break statement
+2. continue statement
+
+#### If Statement :
+
+If-else-if ladder: The if-else-if statement contains the if-statement followed by multiple else-if statements.
+
+<details><summary>Code of If-else-if ladder</summary>  
+<p>
+ 
+if(condition 1) {    
+statement 1; //executes when condition 1 is true   
+}  
+else if(condition 2) {  
+statement 2; //executes when condition 2 is true   
+}  
+else {  
+statement 2; //executes when all the conditions are false   
+}  
+ 
+</p>
+</details>
+
 
 If Example : 
 https://github.com/Roxhitttt/Java/blob/06a28125106494ff3fe8a3d45f1ed20ec482a440/Jdk/Operators/demoif.java
@@ -524,13 +557,59 @@ https://github.com/Roxhitttt/Java/blob/f9211539fd873253cb279446086e0a65c7633078/
 Practicle no 3: Check given character is consonent or vowel.  
 https://github.com/Roxhitttt/Java/blob/f9211539fd873253cb279446086e0a65c7633078/Jdk/Operators/if3.java
 
- Practicle no 4: Nested If else : Find greater between 3 numbers using nested if else.  
- https://github.com/Roxhitttt/Java/blob/61e54ae8316180062b57e092f9c00cb4f43d1503/Jdk/Operators/ifnestedifelse.java
+Nested If Else : 
+
+Practicle no 4: Nested If else : Find greater between 3 numbers using nested if else.  
+https://github.com/Roxhitttt/Java/blob/61e54ae8316180062b57e092f9c00cb4f43d1503/Jdk/Operators/ifnestedifelse.java
  
- Practice no 5: Company having criteria for selection given below:  
+Practice no 5: Company having criteria for selection given below:  
 criteria 1: Applicant must have BE completed or Diploma with 7 year Experiance.  
- criteria 2: If BE is completed must have 60% or BE without 60% must have 3 years experiance.  
- criteria 3: if Diploman with 7 year experiance must have work in quality department.
+criteria 2: If BE is completed must have 60% or BE without 60% must have 3 years experiance.  
+criteria 3: if Diploman with 7 year experiance must have work in quality department.
+
+#### Switch Case :
+
+Example 1: Menu Driven program using Do while loop and Switch case methods  
+https://github.com/Roxhitttt/Java/blob/fa06e5cb5fc63900c245ca8f898f66a7f0763ba1/Jdk/Control%20Statements%2C%20if%2Cfor%2Cwhile%20and%20all/menudreven.java
+
+Example 2: 
+https://github.com/Roxhitttt/Java/blob/fa06e5cb5fc63900c245ca8f898f66a7f0763ba1/Jdk/Control%20Statements%2C%20if%2Cfor%2Cwhile%20and%20all/menudreven2.java
+
+#### For loop :
+It enables us to initialize the loop variable, check the condition, and increment/decrement in a single line of code. 
+
+![image](https://github.com/Roxhitttt/Java/assets/62470301/9ad8fc6f-9b92-49ff-a4aa-1f86c9ad7e9e)
+
+Example1 : 
+https://github.com/Roxhitttt/Java/blob/fa06e5cb5fc63900c245ca8f898f66a7f0763ba1/Jdk/Control%20Statements%2C%20if%2Cfor%2Cwhile%20and%20all/Forloop.java
+
+Example2 : 
+https://github.com/Roxhitttt/Java/blob/fa06e5cb5fc63900c245ca8f898f66a7f0763ba1/Jdk/Control%20Statements%2C%20if%2Cfor%2Cwhile%20and%20all/Forloop2.java
+
+Example3 : 
+https://github.com/Roxhitttt/Java/blob/fa06e5cb5fc63900c245ca8f898f66a7f0763ba1/Jdk/Control%20Statements%2C%20if%2Cfor%2Cwhile%20and%20all/nestedfor.java
+
+#### While Loop : 
+The while loop is also used to iterate over the number of statements multiple times.  If the condition is true, then the loop body will be executed; otherwise, the statements after the loop will be executed.
+
+![image](https://github.com/Roxhitttt/Java/assets/62470301/0262b1c1-57fe-46a0-a703-e3d504d43a0c)
+
+Example1:
+https://github.com/Roxhitttt/Java/blob/fa06e5cb5fc63900c245ca8f898f66a7f0763ba1/Jdk/Control%20Statements%2C%20if%2Cfor%2Cwhile%20and%20all/whileloop.java
+
+Example2:
+https://github.com/Roxhitttt/Java/blob/fa06e5cb5fc63900c245ca8f898f66a7f0763ba1/Jdk/Control%20Statements%2C%20if%2Cfor%2Cwhile%20and%20all/while2.java
+
+Example3:
+https://github.com/Roxhitttt/Java/blob/fa06e5cb5fc63900c245ca8f898f66a7f0763ba1/Jdk/Control%20Statements%2C%20if%2Cfor%2Cwhile%20and%20all/while3.java
+
+#### Do While loop : 
+The do-while loop checks the condition at the end of the loop after executing the loop statements. When the number of iteration is not known and we have to execute the loop at least once, we can use do-while loop.
+
+![image](https://github.com/Roxhitttt/Java/assets/62470301/df814023-d908-4ee6-9434-b4ed4e659b30)
+
+Example : 
+https://github.com/Roxhitttt/Java/blob/fa06e5cb5fc63900c245ca8f898f66a7f0763ba1/Jdk/Control%20Statements%2C%20if%2Cfor%2Cwhile%20and%20all/dowhile.java
  
 </p>
 </details>
@@ -547,19 +626,6 @@ https://github.com/Roxhitttt/Java/blob/9598a64dd92d508e147b608cbc3dd6a4d4c19f23/
 
 Example 2: Menu Driven program using Do while loop and Switch case  
 https://github.com/Roxhitttt/Java/blob/9598a64dd92d508e147b608cbc3dd6a4d4c19f23/Jdk/Operators/menudreven.java
-
-</p>
-</details>
-
-__________________________________________________________________________________
-
-<details><summary>Switch Case </summary>  
-<p>
-
-#### Switch Case  
-
-Example 1: Menu Driven program using Do while loop and Switch case methods  
-https://github.com/Roxhitttt/Java/blob/9598a64dd92d508e147b608cbc3dd6a4d4c19f23/Jdk/Operators/menudreven2.java
 
 </p>
 </details>
