@@ -343,7 +343,7 @@ https://github.com/Roxhitttt/Java/blob/d851030aecc2a7744a8f5eecfcad13909cdacd39/
 
 __________________________________________________________________________________
 
-<details><summary>Java OOPs Concepts</summary>  
+<details><summary>Java OOPs Concepts And Class & Objects </summary>  
 <p>
 - Object-Oriented Programming is a paradigm that provides many concepts, such as inheritance, data binding, polymorphism, etc. The popular object-oriented languages are Java, C#, PHP, Python, C++, etc.
 
@@ -398,16 +398,38 @@ ________________________________________________________________________________
 <p>
 
 #### Methods
-In Java, a method is like a function which is used to expose the behavior of an object.
+the method in Java is a collection of instructions that performs a specific task. It provides the reusability of code. We can also easily modify code using methods.
 
-Advantage of Method : 
-Code Reusability
-Code Optimization
+- What is a method in Java? : ->
+A method is a block of code or collection of statements or a set of code grouped together to perform a certain task or operation. It is used to achieve the reusability of code. We write a method once and use it many times. We do not require to write code again and again.
 
-There are 4 types of Methods
+- Method Declaration : The method declaration provides information about method attributes, such as visibility, return-type, name, and arguments.
+![image](https://github.com/Roxhitttt/Java/assets/62470301/b60d5d2b-a819-47bd-9ee9-6cc819b95b63)
 
-Methods are also called as Functions
+- Access Specifier: Access specifier or modifier is the access type of the method. It specifies the visibility of the method. Java provides four types of access specifier :
 
+- Public: The method is accessible by all classes when we use public specifier in our application.
+- Private: When we use a private access specifier, the method is accessible only in the classes in which it is defined.
+- Protected: When we use protected access specifier, the method is accessible within the same package or subclasses in a different package.
+- Default: When we do not use any access specifier in the method declaration, Java uses default access specifier by default. It is visible only from the same package only.
+
+It is also possible that a method has the same name as another method name in the same class, it is known as method overloading.
+
+There are 4 types of Methods : Methods are also called as Functions
+
+- Predefined Method : The method that is already defined in the Java class libraries is known as predefined methods. It is also known as the standard library method or built-in method. We can directly use these methods just by calling them in the program at any point. Some pre-defined methods are length(), equals(), compareTo(), sqrt(), etc.
+
+Example : 
+https://github.com/Roxhitttt/Java/blob/a5e4222ec604150935ea30d89ce7593506450213/Jdk/Methods%20and%20Functions/predefined_method.java
+
+In the above example, we have used three predefined methods main(), print(), and max(). We have used these methods directly without declaration because they are predefined. The max() method is a method of the Math class that returns the greater of two numbers.
+
+
+
+
+
+- User-defined Method : 
+ 
 1. Method without argument without return value: 
 https://github.com/Roxhitttt/Java/blob/ac57dd26e574a6e153f9a5fb8a10db375577688e/Jdk/Functions/Function1.java
 
@@ -515,18 +537,4 @@ Example 2: Searching array elements:
 
 __________________________________________________________________________________
 
-<details><summary> Class & Objects </summary>  
-<p>
 
-#### Class & Objects
-
-Example 1: 
-https://github.com/Roxhitttt/Java/blob/82ae8c3507c4bd444a4207a844990de58a0a5237/Jdk/Class%20and%20Objects/classexample.java
-
-Example 2:
-https://github.com/Roxhitttt/Java/blob/82ae8c3507c4bd444a4207a844990de58a0a5237/Jdk/Class%20and%20Objects/classexample2.java
-
-</p>
-</details>
-
-__________________________________________________________________________________
