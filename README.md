@@ -343,6 +343,35 @@ https://github.com/Roxhitttt/Java/blob/d851030aecc2a7744a8f5eecfcad13909cdacd39/
 
 __________________________________________________________________________________
 
+<details><summary>Java OOPs Concepts</summary>  
+<p>
+- Object-Oriented Programming is a paradigm that provides many concepts, such as inheritance, data binding, polymorphism, etc. The popular object-oriented languages are Java, C#, PHP, Python, C++, etc.
+
+- The main aim of object-oriented programming is to implement real-world entities, for example, object, classes, abstraction, inheritance, polymorphism, etc.
+
+#### OOPs (Object-Oriented Programming System) : 
+Object means a real-world entity such as a pen, chair, table, computer, watch, etc. Object-Oriented Programming is a methodology or paradigm to design a program using classes and objects. It simplifies software development and maintenance by providing some concepts:
+![image](https://github.com/Roxhitttt/Java/assets/62470301/a9e291b7-34e1-48b2-bde1-75454b20a438)
+
+- Object : 
+Class
+Inheritance
+Polymorphism
+Abstraction
+Encapsulation
+Apart from these concepts, there are some other terms which are used in Object-Oriented design:
+Coupling
+Cohesion
+Association
+Aggregation
+Composition
+
+
+
+</p>
+</details>
+__________________________________________________________________________________
+
 <details><summary>Methods</summary>  
 <p>
 
