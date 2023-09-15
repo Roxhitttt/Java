@@ -383,6 +383,12 @@ Coupling, Cohesion, Association, Aggregation, Composition
 Example : 
 https://github.com/Roxhitttt/Java/blob/1a838a75eb62aa9f544f5dbc7d0bc157daaf0a45/Jdk/Class%20and%20Objects/object_class_ex.java
 
+Example1 :
+https://github.com/Roxhitttt/Java/blob/77b1da81e98b2c92db1c37a8c1a7d63e28c90063/Jdk/Class%20and%20Objects/classexample.java
+
+Example2 :
+https://github.com/Roxhitttt/Java/blob/77b1da81e98b2c92db1c37a8c1a7d63e28c90063/Jdk/Class%20and%20Objects/classexample2.java
+
 </p>
 </details>
 __________________________________________________________________________________
