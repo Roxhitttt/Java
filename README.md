@@ -271,17 +271,45 @@ There are many types of operators in Java which are given below:
   
   
   
-2. Arithmetic Operator -  
+2. Arithmetic Operator -  Java arithmetic operators are used to perform addition, subtraction, multiplication, and division. They act as basic mathematical operations.
 
  Example :  
  https://github.com/Roxhitttt/Java/blob/e8cbbb77cf304ea6d30f59cb4cc275eae0308678/Jdk/Arithmatics_operators.java
+
+3. Assignment Operator - Java assignment operator is one of the most common operators. It is used to assign the value on its right to the operand on its left.
+
+Example : 
+https://github.com/Roxhitttt/Java/blob/4c8adc74aaf9a2cfeea84c0d6ba245f1e7c7538f/Jdk/Operators/Assignmentoperator.java
+
+4. Bitwise Operator && Logical Operator -
+- The logical && operator doesn't check the second condition if the first condition is false. It checks the second condition only if the first one is true.
+- The bitwise & operator always checks both conditions whether first condition is true or false.
+
+- The logical || operator doesn't check the second condition if the first condition is true. It checks the second condition only if the first one is false.
+- The bitwise | operator always checks both conditions whether first condition is true or false.
+
+Example : 
+https://github.com/Roxhitttt/Java/blob/4c8adc74aaf9a2cfeea84c0d6ba245f1e7c7538f/Jdk/Operators/bitwise.java
+
+Example1 : 
+https://github.com/Roxhitttt/Java/blob/4c8adc74aaf9a2cfeea84c0d6ba245f1e7c7538f/Jdk/Operators/logicaloperator.java
+
+Example2 : 
+https://github.com/Roxhitttt/Java/blob/4c8adc74aaf9a2cfeea84c0d6ba245f1e7c7538f/Jdk/Operators/bitwise_logical.java
+
+Example3 : 
+https://github.com/Roxhitttt/Java/blob/4c8adc74aaf9a2cfeea84c0d6ba245f1e7c7538f/Jdk/Operators/logicaloperatorproject.java
  
-- Shift Operator - 
-- Relational Operator - 
-- Bitwise Operator - 
-- Logical Operator - 
-- Ternary Operator  - 
-- Assignment Operator - 
+5. Relational Operator -
+
+Example : 
+https://github.com/Roxhitttt/Java/blob/4c8adc74aaf9a2cfeea84c0d6ba245f1e7c7538f/Jdk/Operators/Relational_operator.java
+
+7. Ternary Operator  - Java Ternary operator is used as one line replacement for if-then-else statement and used a lot in Java programming. It is the only conditional operator which takes three operands.
+
+Example : 
+https://github.com/Roxhitttt/Java/blob/4c8adc74aaf9a2cfeea84c0d6ba245f1e7c7538f/Jdk/Operators/ternaryoperator.java
+
 </p>
 </details>
 
@@ -313,6 +341,35 @@ https://github.com/Roxhitttt/Java/blob/d851030aecc2a7744a8f5eecfcad13909cdacd39/
 </p>
 </details>
 
+__________________________________________________________________________________
+
+<details><summary>Java OOPs Concepts</summary>  
+<p>
+- Object-Oriented Programming is a paradigm that provides many concepts, such as inheritance, data binding, polymorphism, etc. The popular object-oriented languages are Java, C#, PHP, Python, C++, etc.
+
+- The main aim of object-oriented programming is to implement real-world entities, for example, object, classes, abstraction, inheritance, polymorphism, etc.
+
+#### OOPs (Object-Oriented Programming System) : 
+Object means a real-world entity such as a pen, chair, table, computer, watch, etc. Object-Oriented Programming is a methodology or paradigm to design a program using classes and objects. It simplifies software development and maintenance by providing some concepts:
+![image](https://github.com/Roxhitttt/Java/assets/62470301/a9e291b7-34e1-48b2-bde1-75454b20a438)
+
+- Object : 
+Class
+Inheritance
+Polymorphism
+Abstraction
+Encapsulation
+Apart from these concepts, there are some other terms which are used in Object-Oriented design:
+Coupling
+Cohesion
+Association
+Aggregation
+Composition
+
+
+
+</p>
+</details>
 __________________________________________________________________________________
 
 <details><summary>Methods</summary>  
@@ -441,17 +498,6 @@ https://github.com/Roxhitttt/Java/blob/82ae8c3507c4bd444a4207a844990de58a0a5237/
 
 Example 2:
 https://github.com/Roxhitttt/Java/blob/82ae8c3507c4bd444a4207a844990de58a0a5237/Jdk/Class%20and%20Objects/classexample2.java
-
-</p>
-</details>
-
-__________________________________________________________________________________
-
-<details><summary>If Statement</summary>  
-<p>
-
-#### If Statement 
-
 
 </p>
 </details>
