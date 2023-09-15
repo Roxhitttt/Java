@@ -489,11 +489,22 @@ https://github.com/Roxhitttt/Java/blob/873f0c5a4970988390d5a5cc557ebfcc28d35211/
 Example2 : 
 https://github.com/Roxhitttt/Java/blob/873f0c5a4970988390d5a5cc557ebfcc28d35211/Jdk/Contructor/Student.java
 
+3. Java Copy Constructor : There is no copy constructor in Java. However, we can copy the values from one object to another like copy constructor in C++.
 
+There are many ways to copy the values of one object into another in Java. They are:
+1. By constructor
+2. By assigning the values of one object into another
+3. By clone() method of Object class
 
+Example1: By constructor and By assigning the values of one object into another
+https://github.com/Roxhitttt/Java/blob/98c11587e641214cf8b6b2775da6a31635ba1801/Jdk/Contructor/copycontruct_bycontruct.java
+
+Example2: Without constructor and By assigning the values of one object into another
+https://github.com/Roxhitttt/Java/blob/98c11587e641214cf8b6b2775da6a31635ba1801/Jdk/Contructor/copycontruct_withoutcontruct.java
 
 </p>
 </details>
+
 __________________________________________________________________________________
 
 <details><summary>If Statement</summary>  
