@@ -271,17 +271,45 @@ There are many types of operators in Java which are given below:
   
   
   
-2. Arithmetic Operator -  
+2. Arithmetic Operator -  Java arithmetic operators are used to perform addition, subtraction, multiplication, and division. They act as basic mathematical operations.
 
  Example :  
  https://github.com/Roxhitttt/Java/blob/e8cbbb77cf304ea6d30f59cb4cc275eae0308678/Jdk/Arithmatics_operators.java
+
+3. Assignment Operator - Java assignment operator is one of the most common operators. It is used to assign the value on its right to the operand on its left.
+
+Example : 
+https://github.com/Roxhitttt/Java/blob/4c8adc74aaf9a2cfeea84c0d6ba245f1e7c7538f/Jdk/Operators/Assignmentoperator.java
+
+4. Bitwise Operator && Logical Operator -
+- The logical && operator doesn't check the second condition if the first condition is false. It checks the second condition only if the first one is true.
+- The bitwise & operator always checks both conditions whether first condition is true or false.
+
+- The logical || operator doesn't check the second condition if the first condition is true. It checks the second condition only if the first one is false.
+- The bitwise | operator always checks both conditions whether first condition is true or false.
+
+Example : 
+https://github.com/Roxhitttt/Java/blob/4c8adc74aaf9a2cfeea84c0d6ba245f1e7c7538f/Jdk/Operators/bitwise.java
+
+Example1 : 
+https://github.com/Roxhitttt/Java/blob/4c8adc74aaf9a2cfeea84c0d6ba245f1e7c7538f/Jdk/Operators/logicaloperator.java
+
+Example2 : 
+https://github.com/Roxhitttt/Java/blob/4c8adc74aaf9a2cfeea84c0d6ba245f1e7c7538f/Jdk/Operators/bitwise_logical.java
+
+Example3 : 
+https://github.com/Roxhitttt/Java/blob/4c8adc74aaf9a2cfeea84c0d6ba245f1e7c7538f/Jdk/Operators/logicaloperatorproject.java
  
-- Shift Operator - 
-- Relational Operator - 
-- Bitwise Operator - 
-- Logical Operator - 
-- Ternary Operator  - 
-- Assignment Operator - 
+5. Relational Operator -
+
+Example : 
+https://github.com/Roxhitttt/Java/blob/4c8adc74aaf9a2cfeea84c0d6ba245f1e7c7538f/Jdk/Operators/Relational_operator.java
+
+7. Ternary Operator  - Java Ternary operator is used as one line replacement for if-then-else statement and used a lot in Java programming. It is the only conditional operator which takes three operands.
+
+Example : 
+https://github.com/Roxhitttt/Java/blob/4c8adc74aaf9a2cfeea84c0d6ba245f1e7c7538f/Jdk/Operators/ternaryoperator.java
+
 </p>
 </details>
 
