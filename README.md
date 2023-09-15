@@ -610,23 +610,10 @@ The do-while loop checks the condition at the end of the loop after executing th
 
 Example : 
 https://github.com/Roxhitttt/Java/blob/fa06e5cb5fc63900c245ca8f898f66a7f0763ba1/Jdk/Control%20Statements%2C%20if%2Cfor%2Cwhile%20and%20all/dowhile.java
- 
-</p>
-</details>
-
-__________________________________________________________________________________
-
-<details><summary>Do While loop </summary>  
-<p>
-
-#### Do While loop  
-
-Example 1: Print 1 to 10 numbers using Do while loop  
-https://github.com/Roxhitttt/Java/blob/9598a64dd92d508e147b608cbc3dd6a4d4c19f23/Jdk/Operators/dowhile.java
 
 Example 2: Menu Driven program using Do while loop and Switch case  
 https://github.com/Roxhitttt/Java/blob/9598a64dd92d508e147b608cbc3dd6a4d4c19f23/Jdk/Operators/menudreven.java
-
+ 
 </p>
 </details>
 
@@ -655,7 +642,6 @@ https://github.com/Roxhitttt/Java/blob/9598a64dd92d508e147b608cbc3dd6a4d4c19f23/
 
 Example 2: Searching array elements:
  https://github.com/Roxhitttt/Java/blob/700f7f084eba10695d0315222720a670c1cf8b3f/Jdk/Operators/arraydemo2.java
-
 
 </p>
 </details>
