@@ -132,6 +132,9 @@ javac Simple.java
 To execute:  
 java Simple
 
+Compilation Flow:
+When we compile Java program using javac tool, the Java compiler converts the source code into byte code.
+
 ![image](https://user-images.githubusercontent.com/62470301/216401277-8efeb543-30b0-409a-81c0-334b46843fb3.png)
 
 What happens at runtime?
@@ -141,6 +144,11 @@ What happens at runtime?
 Classloader: It is the subsystem of JVM that is used to load class files.  
 Bytecode Verifier: Checks the code fragments for illegal code that can violate access rights to objects.  
 Interpreter: Read bytecode stream then execute the instructions.
+
+- Q) Can you save a Java source file by another name than the class name?
+-> Yes, if the class is not public. It is explained in the figure given below:
+
+ ![image](https://github.com/Roxhitttt/Java/assets/62470301/dc8d2612-fe44-4bd8-8e05-ead7d8a7b6ce)
 
 - Parameters used in First Java Program
 
@@ -217,7 +225,8 @@ A variable declared inside the class but outside the body of the method, is call
 A variable that is declared as static is called a static variable. It cannot be local. You can create a single copy of the static variable and share it among all the instances of the class. Memory allocation for static variables happens only once when the class is loaded in the memory.
 
 Example: 
-https://github.com/Roxhitttt/Java/blob/554b334d1f97be4aabcc1cdedc5f2c13de2edae2/Jdk/Types_of_Variables.jav
+[Jdk/Basic/Types_of_Variables.java](https://github.com/Roxhitttt/Java/blob/bfa6ac5a4c24f996dbdbc81a8e0077698442ed61/Jdk/Basic/Types_of_Variables.java)
+
 </p>
 </details>
 
