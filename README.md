@@ -640,7 +640,11 @@ Java Inheritance Example
 
 As displayed in the above figure, Programmer is the subclass and Employee is the superclass. The relationship between the two classes is Programmer IS-A Employee. It means that Programmer is a type of Employee.
 
+Example : 
+https://github.com/Roxhitttt/Java/blob/61c174c729502e3ee598b54f25af46c43aff70b5/Jdk/inheritance/demoinheritance.java
 
+Example2 : 
+https://github.com/Roxhitttt/Java/blob/61c174c729502e3ee598b54f25af46c43aff70b5/Jdk/inheritance/anodemoinheritance.java
 
 
 
