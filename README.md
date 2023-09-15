@@ -623,7 +623,7 @@ https://github.com/Roxhitttt/Java/blob/9598a64dd92d508e147b608cbc3dd6a4d4c19f23/
 
 __________________________________________________________________________________
 
-<details><summary>Inheritance</summary>  
+<details><summary>Inheritance </summary>  
 <p>
 Inheritance in Java is a mechanism in which one object acquires all the properties and behaviors of a parent object. It is an important part of OOPs (Object Oriented programming system).
 
@@ -641,7 +641,7 @@ Java Inheritance Example
 As displayed in the above figure, Programmer is the subclass and Employee is the superclass. The relationship between the two classes is Programmer IS-A Employee. It means that Programmer is a type of Employee.
 
 Example : 
-https://github.com/Roxhitttt/Java/blob/61c174c729502e3ee598b54f25af46c43aff70b5/Jdk/inheritance/demoinheritance.java
+https://github.com/Roxhitttt/Java/blob/c0150bb9d1e235382bba41062f1b3775d6d177ab/Jdk/inheritance/demoinheritance.java
 
 Example2 : 
 https://github.com/Roxhitttt/Java/blob/61c174c729502e3ee598b54f25af46c43aff70b5/Jdk/inheritance/anodemoinheritance.java
@@ -661,9 +661,26 @@ When one class inherits multiple classes, it is known as multiple inheritance. F
 
 Multilevel inheritance and Super :
 
+### Super Keyword in Java
+The super keyword in Java is a reference variable which is used to refer immediate parent class object. 
+
+Whenever you create the instance of subclass, an instance of parent class is created implicitly which is referred by super reference variable.
+
+Usage of Java super Keyword: 
+1. super can be used to refer immediate parent class instance variable.
+2. super can be used to invoke immediate parent class method.
+3. super() can be used to invoke immediate parent class constructor.
+
 Example 1 : 
+https://github.com/Roxhitttt/Java/blob/c0150bb9d1e235382bba41062f1b3775d6d177ab/Jdk/inheritance/super_and_multilevel_inher/inhe_contr_super_ex.java
 
+Example 2 :
+https://github.com/Roxhitttt/Java/blob/c0150bb9d1e235382bba41062f1b3775d6d177ab/Jdk/inheritance/super_and_multilevel_inher/multi_level.java
 
+Hierarchical Inheritance Example : When two or more classes inherits a single class, it is known as hierarchical inheritance. In the example given below, Dog and Cat classes inherits the Animal class, so there is hierarchical inheritance.
+
+Example : 
+https://github.com/Roxhitttt/Java/blob/8aa96ae2a76bdcf9c07e04b344b4c193f324e211/Jdk/inheritance/hirarchical.java
 
 </p>
 </details>
