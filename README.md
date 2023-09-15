@@ -623,6 +623,33 @@ https://github.com/Roxhitttt/Java/blob/9598a64dd92d508e147b608cbc3dd6a4d4c19f23/
 
 __________________________________________________________________________________
 
+<details><summary>Inheritance</summary>  
+<p>
+Inheritance in Java is a mechanism in which one object acquires all the properties and behaviors of a parent object. It is an important part of OOPs (Object Oriented programming system).
+
+The idea behind inheritance in Java is that you can create new classes that are built upon existing classes. When you inherit from an existing class, you can reuse methods and fields of the parent class. Moreover, you can add new methods and fields in your current class also.
+
+Inheritance represents the IS-A relationship which is also known as a parent-child relationship.
+
+The extends keyword indicates that you are making a new class that derives from an existing class. The meaning of "extends" is to increase the functionality.
+
+In the terminology of Java, a class which is inherited is called a parent or superclass, and the new class is called child or subclass.
+
+Java Inheritance Example
+![image](https://github.com/Roxhitttt/Java/assets/62470301/94862363-df45-4ff2-93b4-db6319b2c1f3)
+
+As displayed in the above figure, Programmer is the subclass and Employee is the superclass. The relationship between the two classes is Programmer IS-A Employee. It means that Programmer is a type of Employee.
+
+
+
+
+
+
+</p>
+</details>
+
+__________________________________________________________________________________
+
 <details><summary>Array</summary>  
 <p>
 
