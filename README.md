@@ -646,6 +646,22 @@ https://github.com/Roxhitttt/Java/blob/61c174c729502e3ee598b54f25af46c43aff70b5/
 Example2 : 
 https://github.com/Roxhitttt/Java/blob/61c174c729502e3ee598b54f25af46c43aff70b5/Jdk/inheritance/anodemoinheritance.java
 
+### Types of inheritance in java : 
+On the basis of class, there can be three types of inheritance in java: single, multilevel and hierarchical.
+
+In java programming, multiple and hybrid inheritance is supported through interface only. We will learn about interfaces later.
+
+![image](https://github.com/Roxhitttt/Java/assets/62470301/58b06ca6-835a-4e52-a158-4528f560e857)
+
+Note: Multiple inheritance is not supported in Java through class.
+
+When one class inherits multiple classes, it is known as multiple inheritance. For Example:
+
+![image](https://github.com/Roxhitttt/Java/assets/62470301/e95efc6f-49b0-4f32-80ed-5aceed6e8f1d)
+
+Multilevel inheritance and Super :
+
+Example 1 : 
 
 
 
