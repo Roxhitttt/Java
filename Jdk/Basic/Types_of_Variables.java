@@ -1,4 +1,4 @@
-public class A  
+public class Types_of_Variables  
 {  
     static int m=100;//static variable  
     void method()  
