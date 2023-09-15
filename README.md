@@ -454,6 +454,48 @@ https://github.com/Roxhitttt/Java/blob/ac57dd26e574a6e153f9a5fb8a10db375577688e/
 
 __________________________________________________________________________________
 
+<details><summary>Contructor</summary>  
+<p>
+In Java, a constructor is a block of codes similar to the method. It is called when an instance of the class is created. At the time of calling constructor, memory for the object is allocated in the memory. It is a special type of method which is used to initialize the object. 
+
+It calls a default constructor if there is no constructor available in the class. In such case, Java compiler provides a default constructor by default.
+
+Note: It is called constructor because it constructs the values at the time of object creation. It is not necessary to write a constructor for a class. It is because java compiler creates a default constructor if your class doesn't have any.
+
+- Rules to create constructor :
+1. Constructor name must be the same as its class name
+2. A Constructor must have no explicit return type
+3. A Java constructor cannot be abstract, static, final, and synchronized
+
+Note: We can use access modifiers while declaring a constructor. It controls the object creation. In other words, we can have private, protected, public or default constructor in Java.
+
+- There are two types of constructors in Java:
+1. no-arg constructor : A constructor is called "Default Constructor" when it doesn't have any parameter.
+
+Example : 
+https://github.com/Roxhitttt/Java/blob/873f0c5a4970988390d5a5cc557ebfcc28d35211/Jdk/Contructor/defaultcontractor.java
+
+2. parameterized constructor : A constructor which has a specific number of parameters is called a parameterized constructor.
+
+- Why use the parameterized constructor? : ->  The parameterized constructor is used to provide different values to distinct objects. However, you can provide the same values also.
+
+- In Java, a constructor is just like a method but without return type. It can also be overloaded like Java methods.
+
+Constructor overloading in Java is a technique of having more than one constructor with different parameter lists. They are arranged in a way that each constructor performs a different task. They are differentiated by the compiler by the number of parameters in the list and their types.
+
+Example1 : 
+https://github.com/Roxhitttt/Java/blob/873f0c5a4970988390d5a5cc557ebfcc28d35211/Jdk/Contructor/para_contructor.java
+
+Example2 : 
+https://github.com/Roxhitttt/Java/blob/873f0c5a4970988390d5a5cc557ebfcc28d35211/Jdk/Contructor/Student.java
+
+
+
+
+</p>
+</details>
+__________________________________________________________________________________
+
 <details><summary>If Statement</summary>  
 <p>
 
