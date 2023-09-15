@@ -623,7 +623,7 @@ https://github.com/Roxhitttt/Java/blob/9598a64dd92d508e147b608cbc3dd6a4d4c19f23/
 
 __________________________________________________________________________________
 
-<details><summary>Inheritance</summary>  
+<details><summary>Inheritance </summary>  
 <p>
 Inheritance in Java is a mechanism in which one object acquires all the properties and behaviors of a parent object. It is an important part of OOPs (Object Oriented programming system).
 
