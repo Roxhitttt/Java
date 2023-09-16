@@ -687,6 +687,66 @@ https://github.com/Roxhitttt/Java/blob/8aa96ae2a76bdcf9c07e04b344b4c193f324e211/
 
 __________________________________________________________________________________
 
+<details><summary> Method Overloading </summary>  
+<p>
+ 
+### Method Overloading in Java : 
+If a class has multiple methods having same name but different in parameters, it is known as Method Overloading.
+
+Suppose you have to perform addition of the given numbers but there can be any number of arguments, if you write the method such as a(int,int) for two parameters, and b(int,int,int) for three parameters then it may be difficult for you as well as other programmers to understand the behavior of the method because its name differs.
+
+So, we perform method overloading to figure out the program quickly.
+
+There are two ways to overload the method in java
+1. By changing number of arguments
+2. By changing the data type
+
+Example1: Method Overloading: changing no. of arguments -  we have created two methods, first add() method performs addition of two numbers and second add method performs addition of three numbers. we are creating static methods so that we don't need to create instance for calling methods.
+https://github.com/Roxhitttt/Java/blob/61a7e3be1792408c06fa34b11365832d4c4a4d7e/Jdk/Method%20Overloading/demo1.java
+
+Example2: Method Overloading: changing data type of arguments - we have created two methods that differs in data type. The first add method receives two integer arguments and second add method receives two double arguments.
+https://github.com/Roxhitttt/Java/blob/61a7e3be1792408c06fa34b11365832d4c4a4d7e/Jdk/Method%20Overloading/demo2.java
+
+Example3:
+https://github.com/Roxhitttt/Java/blob/1ddd397f90162d85e459f315d211d6e690f2c572/Jdk/Method%20Overloading/demooverload.java
+
+Example4: Area of Square of Rectangle 
+https://github.com/Roxhitttt/Java/blob/1ddd397f90162d85e459f315d211d6e690f2c572/Jdk/Method%20Overloading/rectangle.java
+
+Example5: Contructor Overloading
+https://github.com/Roxhitttt/Java/blob/1ddd397f90162d85e459f315d211d6e690f2c572/Jdk/Method%20Overloading/contructor_overloading.java
+
+Example6: Time Example 
+https://github.com/Roxhitttt/Java/blob/1ddd397f90162d85e459f315d211d6e690f2c572/Jdk/Method%20Overloading/time.java
+
+### Method Overloading and Type Promotion
+One type is promoted to another implicitly if no matching datatype is found. Let's understand the concept by the figure given below:
+![image](https://github.com/Roxhitttt/Java/assets/62470301/11b5fc7f-ffb5-4378-b7e8-f8b0fbb42f47)
+
+As displayed in the above diagram, byte can be promoted to short, int, long, float or double. The short datatype can be promoted to int, long, float or double. The char datatype can be promoted to int,long,float or double and so on.
+
+Example1: Example of Method Overloading with Type Promotion if matching found
+If there are matching type arguments in the method, type promotion is not performed.
+
+<details><summary> Example 1 </summary>  
+<p>
+class OverloadingCalculation2{  
+  void sum(int a,int b){System.out.println("int arg method invoked");}  
+  void sum(long a,long b){System.out.println("long arg method invoked");}  
+  
+  public static void main(String args[]){  
+  OverloadingCalculation2 obj=new OverloadingCalculation2();  
+  obj.sum(20,20);//now int arg sum() method gets invoked  
+  }  
+}  
+</p>
+</details>
+
+</p>
+</details>
+
+__________________________________________________________________________________
+
 <details><summary>Array</summary>  
 <p>
 
