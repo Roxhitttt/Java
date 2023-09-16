@@ -767,6 +767,12 @@ https://github.com/Roxhitttt/Java/blob/1503f9f05cb026b6b6e5205862026583d1bb3064/
 Example2 : 
 https://github.com/Roxhitttt/Java/blob/1503f9f05cb026b6b6e5205862026583d1bb3064/Jdk/Method%20Overloading/Method_overriding/area_square_rec.java
 
+- Can we override static method? : -> No, a static method cannot be overridden. It can be proved by runtime polymorphism, so we will learn it later.
+
+- Why can we not override static method? : -> It is because the static method is bound with class whereas instance method is bound with an object. Static belongs to the class area, and an instance belongs to the heap area.
+
+- Can we override java main method? : -> No, because the main is a static method.
+
 ### Super Keyword in Java : 
 By default when we call override methods, method from child class get exexute, to execute method of parent class, super keyword is used.
 The super keyword in Java is a reference variable which is used to refer immediate parent class object. 
