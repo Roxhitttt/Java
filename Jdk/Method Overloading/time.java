@@ -1,31 +1,36 @@
 import java.util.Scanner;
 public class time {
     int hh1,mm1,ss1;
-    int hh2,mm2,ss2;
-    int h,m,s;
-    time(int h1,int m1, int s1, int h2, int m2, int s2){
+    time(int h1,int m1, int s1){
         hh1=h1;
         mm1=m1;
         ss1=s1;
-
-        hh2=h2;
-        mm2=m2;
-        ss2=s2;
-    }
+ }
     void show1(){
+        if(ss1>59)
+        {
+            mm1=mm1+1;
+            ss1=ss1-60;
+        }
+        if(mm1>59)
+        {
+            hh1=hh1+1;
+            mm1=mm1-60;
+        }
+         if(hh1>11)
+        {
+            hh1=hh1-12;
+        }
+
         System.out.println(hh1 + ":" + mm1 + ":" + ss1);
-        System.out.println(hh2 + ":" + mm2 + ":" + ss2);
-
     }
-    void add(){
-        h = hh1 + hh2;
-        m = mm1 + mm2;
-        s = ss1 + ss2;
+    void add(time t){
+        ss1 = ss1 + t.ss1;
+        
+        mm1 = mm1 + t.mm1;
+        
+        hh1 = hh1 + t.hh1;
     }
-    void show2(){
-        System.out.println(h + ":" + m + ":" + s);
-    }
-
 
     public static void main(String args[]){
         Scanner sc=new Scanner(System.in);
@@ -41,9 +46,11 @@ public class time {
         int m2=sc.nextInt();
         System.out.println("Enter Seconds of s2 : ");
         int s2=sc.nextInt();
-        time o=new time(h1,m1,s1,h2,m2,s2);
+        time o=new time(h1,m1,s1);
+        time o2=new time(h2, m2, s2);
         o.show1();
-        o.add();
-        o.show2();
+        o2.show1();
+        o.add(o2);
+        o.show1();
     }
 }
