@@ -741,17 +741,31 @@ class OverloadingCalculation2{
 
 __________________________________________________________________________________
 
-<details><summary> Method Overriding </summary>  
+<details><summary> Method Overriding and Super Keywords </summary>  
 <p>
 
 Overriding : When two different method having same name, one from parent class and other from child class with arguments are called as overriding method.
 
+If subclass (child class) has the same method as declared in the parent class, it is known as method overriding in Java.
+
+In other words, If a subclass provides the specific implementation of the method that has been declared by one of its parent class, it is known as method overriding.
+
+1. The method must have the same name as in the parent class. 
+2. The method must have the same parameter as in the parent class.
+3. There must be an IS-A relationship (inheritance).
+
+A real example of Java Method Overriding : Consider a scenario where Bank is a class that provides functionality to get the rate of interest. However, the rate of interest varies according to banks. For example, SBI, ICICI and AXIS banks could provide 8%, 7%, and 9% rate of interest.
+
+![image](https://github.com/Roxhitttt/Java/assets/62470301/85c1ad06-8876-4364-9e69-6932beaeb0d7)
+
+Example of it : 
+https://github.com/Roxhitttt/Java/blob/1503f9f05cb026b6b6e5205862026583d1bb3064/Jdk/Method%20Overloading/Method_overriding/real_overriding.java
 
 Example1 : 
-https://github.com/Roxhitttt/Java/blob/dd804088e992fa7271a6416c9f89a14f1276e64c/Jdk/Method%20Overloading/demooverriding.java
+https://github.com/Roxhitttt/Java/blob/1503f9f05cb026b6b6e5205862026583d1bb3064/Jdk/Method%20Overloading/Method_overriding/demooverriding.java
 
 Example2 : 
-https://github.com/Roxhitttt/Java/blob/dd804088e992fa7271a6416c9f89a14f1276e64c/Jdk/Method%20Overloading/area_square_rec.java
+https://github.com/Roxhitttt/Java/blob/1503f9f05cb026b6b6e5205862026583d1bb3064/Jdk/Method%20Overloading/Method_overriding/area_square_rec.java
 
 ### Super Keyword in Java : 
 By default when we call override methods, method from child class get exexute, to execute method of parent class, super keyword is used.
